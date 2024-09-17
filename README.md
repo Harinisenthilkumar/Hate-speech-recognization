@@ -2,7 +2,6 @@
 
 Welcome to the **Hate Speech Recognition** project! This application utilizes machine learning algorithms to identify and classify hate speech and toxic content in text, aiming to create a safer and more inclusive online environment.
 
-![Hate Speech Recognition](https://media.giphy.com/media/5r56b3tC1N2TfGF8oc/giphy.gif)
 
 ## 🎯 Project Overview
 
@@ -12,7 +11,6 @@ The Hate Speech Recognition system is designed to automatically detect and class
 - ⚙️ **Machine Learning**: Utilize trained models to improve accuracy.
 - 🌐 **Real-world Application**: Implemented to enhance online safety.
 
-![Text Classification](https://media.giphy.com/media/5z9vY0h3iM2G8pQ4Jc/giphy.gif)
 
 ## 🚀 Features
 
